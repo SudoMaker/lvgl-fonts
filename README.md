@@ -1,4 +1,4 @@
-# Extra fonts
+# LVGL fonts
 
 **lv_font_quan_8.c**
 - Name: QuanPixel 全小素
